@@ -1,4 +1,4 @@
-Hi, I am Koushik Roy, you can call me Koushik. I am an aspiring data scientist and deep learning researcher. I like solving problems by programming and prefer a practical application focused self learning approach.
+Hi, I am Koushik Roy, you can call me Koushik. I am an aspiring data scientist and deep learning researcher. I like solving problems by programming and prefer a practical application focused learning approach.
 
 My reseach interests and experieces are mostly in the mahcine learning and deep learning domain along with computer vision applications. I have done projects and have a keen interest in problems involving computer vison and human computer interaction applications in robotics, object detection and tracking, time series data analysis and modeling, optical character recognition and similar areas.
 
